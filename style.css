@@ -1,12 +1,12 @@
 body{background-color: pink;}
-.menu{
+.menu1{
     background-color: black; 
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 
 }
-.mainmenubtn {
+.menu1 {
     background-color: skyblue;
     color: white;
     border: none;
@@ -14,18 +14,11 @@ body{background-color: pink;}
     padding:20px;
     margin-top:20px;
 }
-.mainmenubtn:hover {
-    background-color: blue;
-    }
-.dropdown {
-    position: relative;
+.menu1 {
+    position:elative;
     display: inline-block;
 }
-.dropdown-child {
-    display: none;
-    background-color: skyblue;
-    min-width: 200px;
-}
+
 
 h1{
     text-align: center;}
